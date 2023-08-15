@@ -16,4 +16,4 @@ This is a simple calculator app that performs basic arithmetic operations such a
 
 ## Live Link
 
-[Here is the live site](https://fem-calculator-app-sol.netlify.app/)
+[Here is the live site](https://tangerine-horse-303af4.netlify.app/)
